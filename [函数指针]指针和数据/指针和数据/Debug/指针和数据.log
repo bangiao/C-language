@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\bangiao\desktop\指针和数据\指针和数据\main.c(45): warning C4133: “=”: 从“Dat *”到“list_node *”的类型不兼容
+c:\users\bangiao\desktop\指针和数据\指针和数据\main.c(47): warning C4133: “初始化”: 从“Node *”到“char *”的类型不兼容
+  指针和数据.vcxproj -> C:\Users\bangiao\Desktop\指针和数据\Debug\指针和数据.exe
+  指针和数据.vcxproj -> C:\Users\bangiao\Desktop\指针和数据\Debug\指针和数据.pdb (Partial PDB)
